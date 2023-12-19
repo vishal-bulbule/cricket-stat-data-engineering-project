@@ -23,4 +23,4 @@ The core of our pipeline lies in the Dataflow job. Triggered by the Cloud Functi
 
 ### Looker Dashboard Creation
 Finally, we’ll explore the potential of BigQuery as a data source for Looker Studio. Configuring Looker to connect with BigQuery, we’ll create a visually compelling dashboard. This dashboard will serve as the visualization hub, enabling insightful analysis based on the data loaded from our cricket statistics pipeline.
-(https://github.com/vishal-bulbule/cricket-stat-data-engineering-project/blob/master/Looker.png)
+![Looker](https://github.com/vishal-bulbule/cricket-stat-data-engineering-project/blob/master/Looker.png)
