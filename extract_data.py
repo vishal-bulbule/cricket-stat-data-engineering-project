@@ -3,7 +3,7 @@ import csv
 
 url = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/rankings/batsmen'
 headers = {
-    'X-RapidAPI-Key': '1bd0a14833mshc18ed4be5953504p1236e8jsn709d3a0bc623',
+     "X-RapidAPI-Key": "Replace with your RapidAPI key"  # Replace with your RapidAPI key
     'X-RapidAPI-Host': 'cricbuzz-cricket.p.rapidapi.com'
 }
 params = {
